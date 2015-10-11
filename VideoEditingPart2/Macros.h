@@ -4,7 +4,7 @@
 //
 //  Created by BiGapps Interactive on 12/30/14.
 //  Copyright (c) 2014 BiGapps2014. All rights reserved.
-//
+// HELLO FOR GIT!!!
 
 #ifndef Art_Judaica_Macros_h
 #define Art_Judaica_Macros_h
